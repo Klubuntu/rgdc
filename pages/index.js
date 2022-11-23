@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Thanks for choose Manager bot" />
         <p className="description">
-          You can add a bot using "Invite Bot" button
-          To see all commands, use /help and select Manager
+          You can add a bot using <b>"Invite Bot"</b><br>
+          To see all commands, use <b>/help</b> and select Manager
         </p>
         <div className="invite">
           <h2>Invite Bot</h2>
