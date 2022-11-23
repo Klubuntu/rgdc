@@ -11,10 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Thanks for choose Manager bot" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          You can add a bot using "Invite Bot" button
+          To see all commands, use /help and select Manager
         </p>
+        <div>
+          <h2>Invite Bot<h2>
+        </div>
       </main>
 
       <Footer />
