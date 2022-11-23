@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made by Klubuntu for you
+        Made by <a href="https://klubuntu.social">Klubuntu</a> for you
       </footer>
     </>
   )
