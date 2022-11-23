@@ -16,8 +16,8 @@ export default function Home() {
           You can add a bot using "Invite Bot" button
           To see all commands, use /help and select Manager
         </p>
-        <div>
-          <h2>Invite Bot<h2>
+        <div className="invite">
+          <h2>Invite Bot</h2>
         </div>
       </main>
 
