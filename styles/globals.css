@@ -55,3 +55,7 @@ footer a{
 .invite{
    color: rgb(31, 216, 216);
 }
+
+.invite a{
+  color: unset;
+}
